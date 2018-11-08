@@ -49,9 +49,9 @@ Students by the end of the course will be able to ...
 |   1   |  Tuesday, October 23    | [Catching the Ruby Train](01-Catching-The-Ruby-Train/README.md) |
 |   2   | Thursday, October 25    | [Ruby Presentations](02-Ruby-Presentations/README.md) |
 |   3   |  Tuesday, October 30  | [Ruby Koans](03-Ruby-Koans/README.md) |
-|   4   | Thursday, November 1  | [User Focused Development: Top Down Development](04-Top-Down-Development/README.md) |
+|   4   | Thursday, November 1  | [Rails Intro](04-Rails-Intro/README.md) |
 |   5   |  Tuesday, November 6 |  [Models: Multiple Resources, ORM, and Validation](05-Models/README.md) |
-|   6   | Thursday, November 8 | [Views: Look and Feel](06-Views/README.md) |
+|   6   | Thursday, November 8 | [Controllers and Actions](06-Controllers-and-Actions/README.md) |
 |   7   |  Tuesday, November 13 | [Writing Safer Code with Minitest](07-Testing/README.md) |
 |   8   | Thursday, November 15 | [Advanced Routes](08-Advanced-Routes/README.md) |
 |      |  Tuesday, November 20 | **Don Rags** |
@@ -67,10 +67,10 @@ Students by the end of the course will be able to ...
 
 To pass this course you must meet the following requirements:
 
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >= 70%
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+* Pass all required tutorials and projects (see associated rubrics)
+* Pass the final summative assessment >= 70%
+* Actively participate in class and abide by the attendance policy
+* Make up all classwork from all absences
 
 ## Additional Resources
 
@@ -85,8 +85,8 @@ To pass this course you must meet the following requirements:
 
 Attendance requirements for scheduled sessions are:
 
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
+* No more than two no call no shows per term in any scheduled session.
+* No more than four excused absences per term in any scheduled session.
 
 Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP will result in not being invited back next term.
 
